@@ -1,3 +1,3 @@
 ## Hi there 👋
-## my name is yahyo and I'm new javascript developer 
+## For questions write to google.
 >>Never look back
